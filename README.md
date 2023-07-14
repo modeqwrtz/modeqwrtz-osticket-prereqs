@@ -1,1 +1,1 @@
-# modeqwrtz-osticket-prereqs
+# osticket-prereqs
